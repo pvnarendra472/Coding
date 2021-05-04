@@ -1,0 +1,15 @@
+D:\Narendra\C# Projects\FirstUniqueCharacter\FirstUniqueCharacter\bin\Debug\net5.0\FirstUniqueCharacter.exe
+D:\Narendra\C# Projects\FirstUniqueCharacter\FirstUniqueCharacter\bin\Debug\net5.0\FirstUniqueCharacter.deps.json
+D:\Narendra\C# Projects\FirstUniqueCharacter\FirstUniqueCharacter\bin\Debug\net5.0\FirstUniqueCharacter.runtimeconfig.json
+D:\Narendra\C# Projects\FirstUniqueCharacter\FirstUniqueCharacter\bin\Debug\net5.0\FirstUniqueCharacter.runtimeconfig.dev.json
+D:\Narendra\C# Projects\FirstUniqueCharacter\FirstUniqueCharacter\bin\Debug\net5.0\FirstUniqueCharacter.dll
+D:\Narendra\C# Projects\FirstUniqueCharacter\FirstUniqueCharacter\bin\Debug\net5.0\ref\FirstUniqueCharacter.dll
+D:\Narendra\C# Projects\FirstUniqueCharacter\FirstUniqueCharacter\bin\Debug\net5.0\FirstUniqueCharacter.pdb
+D:\Narendra\C# Projects\FirstUniqueCharacter\FirstUniqueCharacter\obj\Debug\net5.0\FirstUniqueCharacter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Narendra\C# Projects\FirstUniqueCharacter\FirstUniqueCharacter\obj\Debug\net5.0\FirstUniqueCharacter.AssemblyInfoInputs.cache
+D:\Narendra\C# Projects\FirstUniqueCharacter\FirstUniqueCharacter\obj\Debug\net5.0\FirstUniqueCharacter.AssemblyInfo.cs
+D:\Narendra\C# Projects\FirstUniqueCharacter\FirstUniqueCharacter\obj\Debug\net5.0\FirstUniqueCharacter.csproj.CoreCompileInputs.cache
+D:\Narendra\C# Projects\FirstUniqueCharacter\FirstUniqueCharacter\obj\Debug\net5.0\FirstUniqueCharacter.dll
+D:\Narendra\C# Projects\FirstUniqueCharacter\FirstUniqueCharacter\obj\Debug\net5.0\ref\FirstUniqueCharacter.dll
+D:\Narendra\C# Projects\FirstUniqueCharacter\FirstUniqueCharacter\obj\Debug\net5.0\FirstUniqueCharacter.pdb
+D:\Narendra\C# Projects\FirstUniqueCharacter\FirstUniqueCharacter\obj\Debug\net5.0\FirstUniqueCharacter.genruntimeconfig.cache
